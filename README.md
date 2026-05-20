@@ -1,7 +1,4 @@
-Here is the **complete, undivided markdown document** inside a single code block. You can copy the entire block at once and paste it straight into your repository's `README.md`!
-
-```markdown
-# 🏥 Multiple Disease Predictor (HACKARENA-HIT)
+### 🏥 Multiple Disease Predictor (HACKARENA-HIT)
 
 An AI-powered diagnostic and wellness advisory system that predicts **Heart and Kidney diseases** using custom-trained Machine Learning models. Built as a part of the **HackArena HIT**, this project combines robust predictive pipelines with highly interactive health and wellness recommendations.
 
