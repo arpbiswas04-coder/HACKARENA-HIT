@@ -41,5 +41,3 @@ HACKARENA-HIT/
 │   ├── heart (2).pkl        # Heart disease classification model
 │   └── kindey.pkl           # Kidney disease classification model
 └── README.md                # Project documentation
-
-
